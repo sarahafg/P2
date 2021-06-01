@@ -1,4 +1,4 @@
-# CS310 Programming Assignment 02 Summer 2019
+# CS310 Programming Assignment 02
 ## Tree Dictionary 
 
 Many data (e.g, records of movies, songs, video games, etc) come with keywords so these data can be eaily found using keywords. 
